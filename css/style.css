@@ -1,0 +1,121 @@
+.title{
+    color:#b0d5ff;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 60px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin: 24px 0;
+}
+
+.pre_title{
+    color:#000000;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-weight: 800;
+    font-style: 15px;
+    text-transform: uppercase;
+}
+
+.pre_title_block{
+
+    display: flex;
+    padding: 2px 15px;
+    align-items: center;
+    background: #94c6ff;
+    border-radius: 78px;
+    opacity: 80%;
+
+}
+
+.main{
+    background: url('../img/photoMAIN.jpg') no-repeat center center / cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px 0 155px 0;
+}
+
+.pic{
+    width: 150px;
+    margin-bottom: 130px;
+}
+
+.link{
+    color:#FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 800;
+    letter-spacing: 0,8;
+    text-decoration: none;
+}
+
+.link_block{
+    border-radius: 119px;
+    background: #7ec1ff;
+    padding: 18px 30px;
+    margin-bottom: 180px;
+}
+
+.arrow-down{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 791px 0 794px 0;
+}
+
+.title2{
+    font-family: Montserrat;
+    font-weight: 800;
+    font-size: 30px;
+    color: #304041;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+
+.ways__title{
+    margin-bottom: 98px;
+}
+
+.ways__texts{
+    background: #FFF6F1;
+    padding: 110px 75px
+}
+
+.ways__box{
+    display: flex;
+}
+
+.ways__subtitle{
+    font-size: 24px;
+    text-align: left;
+}
+
+.textz{
+    color: #304041;
+    font-family: Montserrat;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 152.4%; /* 22.86px */
+    letter-spacing: 0.75px;
+}
+
+.ways_pretitle{
+    color: #789AA0;
+    font-family: Montserrat;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.75px;
+    text-transform: uppercase;
+}
